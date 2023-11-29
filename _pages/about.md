@@ -19,9 +19,10 @@ My name is Xiangyu Guo, a first-year Ph.D. student in BioEngineering (Bioinforma
 ![image text](../images/SpaSEG_main_figure1.jpg "overview of SpaSEG")
 
 ### Overview of cell-cell interaction analysis in SpaSEG
-<div align="left">
+![image text](../images/SpaSEG_cci.jpg "overview of CCI")
+<!-- <div align="left">
 <img src=../images/SpaSEG_cci.jpg width=60% />
-</div>
+</div> -->
 
 2. STGIC: a graph and image convolution-based method for spatial transcriptomic clustering [[PDF]](https://arxiv.org/pdf/2303.10657.pdf) Chen Zhang, Junhui Gao, Lingxin Kong, Guangshuo cao, **Xiangyu Guo**, Wei Liu  <br /> **arXiv**, 2023.10
 
