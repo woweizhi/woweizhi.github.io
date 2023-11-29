@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiangyu Guo, a first-year Ph.D. student in BioEngineering (Bioinformatics and Machine Learning Track) at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), supervised by [Prof. Ricardo Henao](https://scholar.google.com/citations?user=p_mm4-YAAAAJ&hl=en). My current research mainly focuses at the intersection of biomedicine and artificial intelligence, including but not limited to AI in disease diagnosis and monitoring, Spatial transcriptomics algorithms development, and digital pathology. For additional details regarding my academic and professional experiences, please refer to my [CV](../files/CV-KAUST.pdf).
+My name is Xiangyu Guo, a first-year Ph.D. student in BioEngineering (Bioinformatics and Machine Learning Track) at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), supervised by [Prof. Ricardo Henao](https://scholar.google.com/citations?user=p_mm4-YAAAAJ&hl=en). My current research mainly focuses at the intersection of biomedicine and artificial intelligence, including but not limited to AI in disease diagnosis and monitoring, Spatial transcriptomics algorithms development, and digital pathology. For additional details regarding my academic and professional experiences, please refer to my [CV](../files/CV-KAUST-2023.pdf).
 
 
 ## Recent Paper
