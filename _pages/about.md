@@ -12,21 +12,12 @@ My name is Xiangyu Guo, a first-year Ph.D. student in BioEngineering (Bioinforma
 
 
 ## Recent Papers
-1. Efficient reliability analysis of spatially resolved transcriptomics at varying resolutions using SpaSEG [[PDF]](https://www.biorxiv.org/content/10.1101/2022.11.16.516728v2.full.pdf) Yong Bai, **Xiangyu Guo**, Keyin Liu, et. al. **BioRxiv**, 2023.05
-### Overview of SpaSEG
-![image text](../images/SpaSEG_main_figure1.jpg "overview of SpaSEG")
-### Overview of cell-cell interaction analysis in SpaSEG
+1. Efficient reliability analysis of spatially resolved transcriptomics at varying resolutions using SpaSEG [[PDF]](https://www.biorxiv.org/content/10.1101/2022.11.16.516728v2.full.pdf) Yong Bai, **Xiangyu Guo**, Keyin Liu, et. al. **BioRxiv**, 2023.05 <br /> **Overview of SpaSEG**
+![image text](../images/SpaSEG_main_figure1.jpg "overview of SpaSEG") <br /> **Overview of cell-cell interaction analysis in SpaSEG**
 ![image text](../images/SpaSEG_cci.jpg "overview of CCI")
-<!-- <div align="left">
-<img src=../images/SpaSEG_cci.jpg width=60% />
-</div> -->
-
 2. STGIC: a graph and image convolution-based method for spatial transcriptomic clustering [[PDF]](https://arxiv.org/pdf/2303.10657.pdf) Chen Zhang, Junhui Gao, Lingxin Kong, Guangshuo cao, **Xiangyu Guo**, Wei Liu  <br /> **arXiv**, 2023.10
-
 3. Recent advances in blood-based and artificial intelligence-enhanced approaches for gastrointestinal cancer diagnosis [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8473600/pdf/WJG-27-5666.pdf) Li-Shi Li, **Xiang-Yu Guo**, Kun Sun <br /> **World Journal of Gastroenterology**, 2021.09
-
 ![image text](../images/WJG.png "overview of review")
-
 
 ## Industrial Experience
 
