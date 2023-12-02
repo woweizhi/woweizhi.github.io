@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangyu Guo's Homepage"
+title                    : "Xiangyu Guo @ KAUST"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiangyu Guo"
 description              : &description "personal description"
 url                      : https://woweizhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
